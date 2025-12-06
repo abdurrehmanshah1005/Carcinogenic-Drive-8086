@@ -1,0 +1,10 @@
+# Ignore build artifacts
+*.obj
+*.map
+*.com
+*.exe
+
+# Keep source code and assets
+!*.asm
+!*.bin
+!*.txt
